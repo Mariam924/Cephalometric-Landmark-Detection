@@ -38,7 +38,7 @@ of orthodontists involved in the orthodontic case and diagnosis.
 Detection of cephalometric landmarks with Deep learning models. Dataset:
 
 - 400 X-ray images each image contains 19 landmarks.
-- Excel sheets containg X and Y positions for each landmark in each image.
+- Excel sheets containing X and Y positions for each landmark in each image.
 
 ![Landmark detection](https://i.imgur.com/zxl6jGj.jpg)
 
